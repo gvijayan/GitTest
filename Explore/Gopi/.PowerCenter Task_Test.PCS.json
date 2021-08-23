@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "j26Sz2JlOsbdcBIv0DC5eq",
+    "id" : "ausyv7DCfa3iRj971yL6qu",
     "name" : "PowerCenter Task_Test",
     "type" : "PCS",
     "metadata" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "001QNB0K000000000004"
+        "repoHandle" : "001QNB0K000000000005"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "adding description",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
